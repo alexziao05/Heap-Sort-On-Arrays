@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ziaohuang/CLionProjects/HeapSort/cmake-build-debug"
+			"value" : "/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ziaohuang/CLionProjects/HeapSort/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ziaohuang/CLionProjects/HeapSort"
+			"value" : "/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ziaohuang/CLionProjects/HeapSort/cmake-build-debug"
+			"value" : "/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays/cmake-build-debug"
 		},
 		{
 			"name" : "HeapSort_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ziaohuang/CLionProjects/HeapSort"
+			"value" : "/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays"
 		}
 	],
 	"kind" : "cache",

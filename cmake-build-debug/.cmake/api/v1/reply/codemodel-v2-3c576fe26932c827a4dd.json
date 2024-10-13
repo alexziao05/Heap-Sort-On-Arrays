@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/ziaohuang/CLionProjects/HeapSort/cmake-build-debug",
-		"source" : "/Users/ziaohuang/CLionProjects/HeapSort"
+		"build" : "/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays/cmake-build-debug",
+		"source" : "/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays"
 	},
 	"version" : 
 	{

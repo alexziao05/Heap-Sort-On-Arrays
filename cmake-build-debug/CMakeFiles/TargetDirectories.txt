@@ -1,3 +1,3 @@
-/Users/ziaohuang/CLionProjects/HeapSort/cmake-build-debug/CMakeFiles/HeapSort.dir
-/Users/ziaohuang/CLionProjects/HeapSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ziaohuang/CLionProjects/HeapSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays/cmake-build-debug/CMakeFiles/HeapSort.dir
+/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ziaohuang/Documents/GitHub/Heap-Sort-On-Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
